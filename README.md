@@ -20,25 +20,45 @@
 
 ​		SparkWithMongo：数据分析程序
 
-​											IDEA: 2021.2
+#### 3.  运行环境
 
-​											Maven: 3.6.3
+python: 3.9.6
 
-​											mongo-spark-connector: 2.12
+mongodb: 5.0.4
 
-​											spark-core: 2.12
+IDEA: 2021.2
 
-​											spark-sql: 2.12
+Maven: 3.6.3
 
-​		可视化分析程序、爬虫程序：
+dependencies：
 
-​										python: 3.9.6
+mongo-spark-connector: 2.12
 
-#### 3.使用方法
+spark-core: 2.12
 
-​		直接打开index.html
+spark-sql: 2.12
+
+#### 4. 使用方法
+
+直接打开index.html
+
+#### 5. 例图
 
 ​		
 
+![大连市各区县二手房均价](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\大连市各区县二手房均价.png)
 
+![房屋价格分布直方图](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\房屋价格分布直方图.png)
+
+![房屋面积分布直方图](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\房屋面积分布直方图.png)
+
+![国内部分城市二手房均价](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\国内部分城市二手房均价.png)
+
+![上海市各区县二手房均价](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\上海市各区县二手房均价.png)
+
+![北京市各区县二手房均价](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\北京市各区县二手房均价.png)
+
+![饼图](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\饼图.jpg)
+
+![大连各区县二手房数量](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\大连各区县二手房数量.png)
 
