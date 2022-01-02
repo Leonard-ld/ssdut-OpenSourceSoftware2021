@@ -47,18 +47,11 @@ spark-sql: 2.12
 ​		
 
 ![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/大连市各区县二手房均价.png)
-
-![房屋价格分布直方图](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\房屋价格分布直方图.png)
-
-![房屋面积分布直方图](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\房屋面积分布直方图.png)
-
-![国内部分城市二手房均价](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\国内部分城市二手房均价.png)
-
-![上海市各区县二手房均价](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\上海市各区县二手房均价.png)
-
-![北京市各区县二手房均价](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\北京市各区县二手房均价.png)
-
-![饼图](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\饼图.jpg)
-
-![大连各区县二手房数量](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\大连各区县二手房数量.png)
+![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/房屋价格分布直方图.png)
+![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/房屋面积分布直方图.png)
+![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/国内部分城市二手房均价.png)
+![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/上海市各区县二手房均价.png)
+![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/北京市各区县二手房均价.png)
+![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/饼图.jpg)
+![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/大连各区县二手房数量.png)
 
