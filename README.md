@@ -46,7 +46,7 @@ spark-sql: 2.12
 
 ​		
 
-![大连市各区县二手房均价](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/大连市各区县二手房均价.png)
+![Image](https://github.com/Leonard-ld/ssdut-OpenSourceSoftware2021/tree/main/images/大连市各区县二手房均价.png)
 
 ![房屋价格分布直方图](C:\Users\Leonard\Desktop\开源软件基础课程作业\ssdut-OpenSourceSoftware2021\images\房屋价格分布直方图.png)
 
