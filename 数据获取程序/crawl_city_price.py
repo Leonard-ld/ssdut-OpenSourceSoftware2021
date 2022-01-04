@@ -1,4 +1,4 @@
-import requests
+﻿import requests
 import pymongo
 from bs4 import BeautifulSoup
 import bson
@@ -6,7 +6,9 @@ import re
 
 # mongodb数据库连接
 myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+# 数据库名称
 mydatabase = myclient["crawl_beike"]
+# 数据集合名称
 mycollection = mydatabase["AllCitysData"]
 
 def get_all():
