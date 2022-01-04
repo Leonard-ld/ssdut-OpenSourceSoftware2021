@@ -12,6 +12,7 @@ mydatabase = myclient["crawl_beike"]
 mycollection = mydatabase["AllCitysData"]
 
 def get_all():
+    # 用于暂时存储数据的字典
     citys = {
        "dalian":"dl",
        "shenyang":"sy",
